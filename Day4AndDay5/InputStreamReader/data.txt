@@ -1,7 +1,0 @@
-This is input stream  first line.
-This is input stream  second line.
-
-hi
-i am aman
-whats your name
-this is input console
